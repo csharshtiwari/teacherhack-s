@@ -1,5 +1,4 @@
 import React from 'react'
-import Study from "./Assets/study.svg"
 import "./login.css"
 import Fade from 'react-reveal/Fade';
 
