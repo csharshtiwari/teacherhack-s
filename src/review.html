@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Review</title>
+	 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="review.css">
+</head>
+<body>
+	<div class="testbox">
+      <form action="/">
+        <h1>Website Feedback Form</h1>
+        <p class="question">Is this the first time you have visited the website?</p>
+        <div class="question-answer">
+          <label><input type="radio" value="none" name="visited" /> yes</label>
+          <label><input type="radio" value="none" name="visited" /> no</label>
+        </div>
+        <p class="question">Please choose your Teacher's name</p>
+        <div class="select">
+            <select name="slct" id="slct">
+                <option>Computer Science Subjects</option>
+                <option value="1">Operating System</option>
+                <option value="2">Computer Networks</option>
+                <option value="3">Data Structure</option>
+                <option value="4">Algorithm</option>
+                <option value="5">C programming</option>
+                <option value="6">JAVA</option>
+            </select>
+        </div>
+
+        <p class="question">Please provide your awesome thoughts to improve or to appreciate the efforts of your teacher(Don't Use any vulgar language).</p>
+        <textarea rows="5"></textarea>
+        <p class="question">Please tell us how was your experience with your teacher.</p>
+        <div class="question-answer">
+          <label><input type="radio" value="none" name="easy" /> Very good</label>
+          <label><input type="radio" value="none" name="easy" /> Good</label>
+          <label><input type="radio" value="none" name="easy" /> Average</label>
+          <label><input type="radio" value="none" name="easy" /> Normal</label>
+          <label><input type="radio" value="none" name="easy" /> Difficult</label>
+        </div>
+        <p class="question">What is your overall review about Teaching ways</p>
+        <table>
+          <tr>
+            <th class="first-col"></th>
+            <th>Below Expectations</th>
+            <th>Meets Expectations</th>
+            <th>Exceeds Expectations</th>
+          </tr>
+          <tr>
+            <td class="first-col">Course Material</td>
+            <td><input type="radio" value="none" name="professional" /></td>
+            <td><input type="radio" value="none" name="professional" /></td>
+            <td><input type="radio" value="none" name="professional" /></td>
+          </tr>
+          <tr>
+            <td class="first-col">Subject Understanding</td>
+            <td><input type="radio" value="none" name="Informative" /></td>
+            <td><input type="radio" value="none" name="Informative" /></td>
+            <td><input type="radio" value="none" name="Informative" /></td>
+          </tr>
+          <tr>
+            <td class="first-col">Explaining Power</td>
+            <td><input type="radio" value="none" name="Visually" /></td>
+            <td><input type="radio" value="none" name="Visually" /></td>
+            <td><input type="radio" value="none" name="Visually" /></td>
+          </tr>
+        </table>
+        <div class="btn-block">
+          <button type="submit" href="/">Submit</button>
+        </div>
+      </form>
+    </div>
+
+</body>
+</html>
