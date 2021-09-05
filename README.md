@@ -28,7 +28,8 @@ We used Figma to design the web app, and brought our design into reality through
 ## ⭕ Use of Twilio
 - We also developed a teacher appreciation page as mentioned earlier. This appreciation page utilises Twilio to send notifications to teachers when a particular student appreciates them. It helps teachers stay in touch with all their students. 
 
-## ❤ 
+##  Use of GoDaddy
+- We registered the following GoDaddy domain.
 
 ## 🧠 Challenges we ran into
 - The plugin we intended to use to convert Figma to HTML/CSS didn't work at all. So, we had to do it ourselves. 
