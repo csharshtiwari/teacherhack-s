@@ -65,4 +65,4 @@ npm start
 ## 🖼️ Some glimps of the site
 
 ## Made by
-Aidan Hoang, Harsh Tiwari, Harsh Raikwar, Kanha Korgaonkar
+Aidan Hoang, Harsh Tiwari, Harshal Raikwar, Kanha Korgaonkar
