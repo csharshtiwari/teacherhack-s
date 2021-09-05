@@ -63,3 +63,5 @@ npm start
 ```
 
 ## 🖼️ Some glimps of the site
+
+Made By: Aidan Hoang, 
