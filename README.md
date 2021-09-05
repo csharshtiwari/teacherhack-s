@@ -10,12 +10,13 @@ Check out our presentation [here]()
 CLick [here]() to view 
 
 ## 💡 Inspiration
-We wanted to do something special for not only our teachers, but everyone in the world who practices the noble profession of spreading knowledge and wisdom among young students. One important lesson taught by a teacher can impact students for the rest of their lives. Because of the critical role teachers play, it's important that they deliver the best lessons possible to their students. Keeping that in mind, we built iTeach for our teachers. 
+We wanted to do something special for not only our own teachers, but everyone in the world who practices the noble profession of spreading knowledge and wisdom among young students. One important lesson taught by a teacher can impact students for the rest of their lives. Because of the critical role teachers play, it's important that they deliver the best lessons possible to their students. Keeping that in mind, we built iTeach for our teachers. 
 
 ## 💻 What it does
-iTeach helps teachers create a greater impact by managing their tasks efficiently. 
+iTeach helps teachers create a greater impact on society by managing their tasks efficiently. Our teachers teach so many students every day, constantly conduct assignments, grade tests, manage office hours, develop lesson plans and overall, nurture minds with valuable lessons. They needed a tool which they can use to manage these tasks, prioritise what's important and help make a difference. While building this service for our teachers, we realised how hard our teachers work for the society, thus, we created an additional part of our service -- a teacher appreciation page; where students can share fond memories of their teachers and talk about their favorite teachers. 
 
 ## ⚙️ How it works
+
 
 ## 🔨 How we built it
 
