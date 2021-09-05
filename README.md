@@ -2,16 +2,18 @@
 
 ## Live demo
 
-The site is deployed throught Vercel, which you can view from [here]()  
-Checkout the ppt from [here]()
+The site is deployed through Vercel, which you can view over [here]()  
+Check out our presentation [here]()
 
 ## Demo video
 
-Checkout the complete demo video from [here]()
+CLick [here]() to view 
 
 ## 💡 Inspiration
+We wanted to do something special for not only our teachers, but everyone in the world who practices the noble profession of spreading knowledge and wisdom among young students. One important lesson taught by a teacher can impact students for the rest of their lives. Because of the critical role teachers play, it's important that they deliver the best lessons possible to their students. Keeping that in mind, we built iTeach for our teachers. 
 
 ## 💻 What it does
+iTeach helps teachers create a greater impact by managing their tasks efficiently. 
 
 ## ⚙️ How it works
 
